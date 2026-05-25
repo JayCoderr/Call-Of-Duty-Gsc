@@ -2,7 +2,7 @@
 message of the day:
 
 this was a succesful test.
-/////////////////////////////////////////////////*
+////////////////////////////////////////////////*/
 #include maps\mp\_utility;
 #include maps\mp\gametypes\_callbacksetup;
 
