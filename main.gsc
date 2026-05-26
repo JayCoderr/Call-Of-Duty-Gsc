@@ -1,7 +1,7 @@
 /*////////////////////////////////////////////////
 message of the day:
 
-this was a succesful test.
+this was a successful test.
 ////////////////////////////////////////////////*/
 #include maps\mp\_utility;
 #include maps\mp\gametypes\_callbacksetup;
